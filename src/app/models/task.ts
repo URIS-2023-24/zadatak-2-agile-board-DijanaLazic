@@ -3,5 +3,5 @@ export class Task
     id:number;
     title:string;
     description: string;
-    assignee:string
+    assignee:string;
 }
